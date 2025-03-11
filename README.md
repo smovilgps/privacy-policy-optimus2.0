@@ -1,10 +1,10 @@
-# Optimus 2.0
+# Optimus C.A
 
 ---
 
 ### Privacy Policy
 
-This privacy policy applies to the Optimus 2.0 app (hereby referred to as "Application") for mobile devices that was created by Seguridad Movil GPS (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+This privacy policy applies to the Optimus C.A app (hereby referred to as "Application") for mobile devices that was created by Seguridad Movil GPS (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 **Information Collection and Use**
 
